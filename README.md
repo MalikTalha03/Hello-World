@@ -41,8 +41,7 @@ For more information on the importance of a professional README for your reposit
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -57,13 +56,11 @@ For more information on the importance of a professional README for your reposit
 
 
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
 
 
 
-### Key Features <a name="key-features"></a>
+
+## Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
@@ -71,17 +68,11 @@ For more information on the importance of a professional README for your reposit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> You can use basic files and linters configration to start implementing linters in your projects.
+> You can use basic files and linters configuration to start implementing linters in your projects.
 
 To get a local copy up and running, follow these steps.
 
@@ -95,48 +86,9 @@ Install node.js
 
 ### Setup
 
-Else you can copy files and follow instructions from this repo
+You can copy files and follow instructions from this repo
 https://github.com/MalikTalha03/linters-config/tree/master/html-css
 
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-
-
-
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -153,13 +105,7 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -169,23 +115,3 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
-
-> 
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
